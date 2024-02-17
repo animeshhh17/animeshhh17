@@ -25,7 +25,7 @@ share their creations with others.
 
 - Technologies used: React
 - Link: https://code-pen-sand.vercel.app/
-
+- Resume: https://drive.google.com/file/d/1aT5gIkD8v4HvEdn0YJ7qbdIwDNlD8fbR/view
   ![GIF](path-to-gif)
 
 ## 🌱 What I'm currently learning
