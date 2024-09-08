@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Animesh Kumar Raikwar</h1>
 <h3 align="center">A passionate React-Native FullStack Developer from India</h3>
+<img alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
 
 - 🔭 I’m currently working on **React-Native-Blinkit-Clone**
 
